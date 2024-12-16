@@ -454,6 +454,7 @@ header .logo img {
 
 .footer-left {
   max-width: 60%;
+  text-align: left;
 }
 
 .footer-logo {
